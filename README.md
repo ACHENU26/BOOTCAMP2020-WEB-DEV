@@ -1,7 +1,7 @@
 # BOOTCAMP 2020
 ## Bordeaux Ynov Campus
 
-###Exercice 1 
+**Exercice 1** 
 
 Créer une fonction qui prend en paramètres un nom et un prénom
 - Cette fonction doit retourner la concaténation des deux.
@@ -13,7 +13,7 @@ Créer une fonction qui prend un nombre en paramètre et retourne son carré
 
 Afficher le résultat
 
-###Exercice 2
+**Exercice 2**
 
 Créer un objet user qui comporte un nom, une description et un budget
 
@@ -26,46 +26,46 @@ Créer une fonction qui prend en paramètre un user
 
 Afficher l’objet user sous la forme “Bravo, (nom), (description). Voici le rappel de ton budget : (budget)”
 
-###Exercice 3 
+**Exercice 3** 
 
 Créer un tableau numbers contenant 10 nombres entiers pairs et impairs.
 Parcourir le tableau et afficher si le nombre est pair ou impair.
 
-###Exercice 4
+**Exercice 4**
 
 Créer une fonction retournant si une chaîne de caractère (passée en paramètre) est un palindrome
 
-###Exercice 5 
+**Exercice 5**
 
 Créer une fonction qui prend deux tableaux en paramètres et qui renvoie un tableau avec les éléments qui différent. (Cf: Voir lodash fonction _.difference).
 
 - Ne pas utiliser lodash ou les fonctions existantes
 
-###Exercice 6
+**Exercice 6**
 
 Créer une fonction qui prend en paramètres un tableau de string et un séparateur et qui renvoie la concaténation des strings du tableau séparées par le séparateur. (Cf: Voir lodash fonction _.join). 
 
 - Ne pas utiliser lodash ou les fonctions existantes
 
-###Exercice 7 
+**Exercice 7**
 
 Créer une fonction qui prend un mot en paramètre et une position dans ce mot. La fonction supprime le caractère à la position indiquée et retourne le mot.
 
-###Exercice 8
+**Exercice 8**
 
 Créer une fonction qui prend 3 nombres en argument et retourne le nombre le plus grand.
 
-###Exercice 9
+**Exercice 9**
 
 Créer une fonction qui prend une chaîne de caractères en paramètres et qui retourne pour chaque lettre de la chaîne, la lettre suivante de l’alphabet. 
 - Par exemple : “Zoro” deviendra “Apsp”
 
-###Exercice 10 
+**Exercice 10** 
 
 Créer une fonction qui prend une chaîne de caractères en paramètres et qui inverse la casse. 
 - Par exemple : “Un Cochon jaune” deviendra “uN cOCHON JAUNE”.
 
-###Exercice 11
+**Exercice 11**
 
 Créer une fonction qui prend une chaîne de caractères en paramètres et qui retourne un mot sur deux renversé tout en gardant l’emplacement des majuscules. 
 - Par exemple : “Un cochon Volant Jaune” deviendra “Nu cochon Tnalov Jaune”.
