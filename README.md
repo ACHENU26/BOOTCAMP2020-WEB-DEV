@@ -68,4 +68,4 @@ Créer une fonction qui prend une chaîne de caractères en paramètres et qui i
 **Exercice 11**
 
 Créer une fonction qui prend une chaîne de caractères en paramètres et qui retourne un mot sur deux renversé tout en gardant l’emplacement des majuscules. 
-- Par exemple : “Un cochon Volant Jaune” deviendra “Nu cochon Tnalov Jaune”. 
+- Par exemple : “Un cochon Volant Jaune” deviendra “Nu cochon Tnalov Jaune”.
