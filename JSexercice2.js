@@ -1,3 +1,5 @@
+/* Exercie 2 */
+
 let user = {
     name: 'Axel',
     description: 'BLA BLA BLA',
@@ -11,11 +13,11 @@ function budget(user) {
     else if (user.budget <= 0 && user.budget <= 5) {
         user.description = 'Il fallait travailler cet été'
     }
-    else if(user.budget==5){
-        user.description ='Tu as le droit à une bière'
+    else if (user.budget == 5) {
+        user.description = 'Tu as le droit à une bière'
     }
     else
-    user.description ='Tu peux payer ta tournée'
+        user.description = 'Tu peux payer ta tournée'
 }
 
 budget(user)
